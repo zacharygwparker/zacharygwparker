@@ -1,7 +1,7 @@
 # About me
 
 <!--
-**zacharygwparker/zacharygwparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a junior in high school studying computer science, and I have experience with the python and java programming languages.
+I've had a lifelong interest in developing video games and I am currently learning how to use the Godot game engine.\
+Outside of school, I am an active member in my scout troop and I am currently working towards obtaining Eagle rank.
